@@ -15,7 +15,7 @@ public class Compound {
 
     public Compound(String name, String formula, String properties) {
         this.name = name;
-        this.formula = formula;
+        this.formula = formula; 
         this.properties = properties;
     }
 
