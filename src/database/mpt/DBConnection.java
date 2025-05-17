@@ -10,7 +10,7 @@ import java.sql.SQLException;
 /**
  *
  * @author Yousef
- */
+ */ 
 class DBConnection {
  private static final String URL = "jdbc:mysql://localhost:3306/modern_periodic_table";
     private static final String USER = "root";
