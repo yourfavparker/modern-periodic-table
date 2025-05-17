@@ -10,7 +10,7 @@ import java.sql.PreparedStatement;
  * @author Yousef
  */
 public class ModifyElement {
-    
+
     public void modifyElement(String currentName, String newName, String newSymbol,
                               int newAtomicNumber, double newAtomicMass, int newGroupNumber,
                               int newPeriod, String newCategory) throws Exception {
