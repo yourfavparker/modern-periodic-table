@@ -5,7 +5,7 @@ import java.sql.*;
  *
  * @author Yousef
  */
-
+ 
 public class DatabaseMPT {
     static final String port = ":3306";
     static final String jdbcDriver = "com.mysql.jdbc.Driver";
