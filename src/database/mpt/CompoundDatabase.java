@@ -8,7 +8,7 @@ import java.sql.*;
 /**
  *
  * @author Yousef
- */
+ */ 
 public class CompoundDatabase {
     
     public static void insertCompound(Compound compound) {
