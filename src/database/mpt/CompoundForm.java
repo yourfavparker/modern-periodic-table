@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 public class CompoundForm extends javax.swing.JFrame {
 
     /**
-     * Creates new form CompoundForm
+     * Creates new form CompoundForm 
      */
     public CompoundForm() {
         initComponents();
